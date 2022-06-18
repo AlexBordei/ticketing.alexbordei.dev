@@ -11,7 +11,7 @@
 
 if ( ! class_exists( 'Ticketing_Delivery' ) ) {
 
-	define( 'SENDGRID_API_KEY', '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' );
+	define( 'SENDGRID_API_KEY', '' );
 	define( 'SENDGRID_EMAIL_FROM', 'email@ticketing.alexbordei.dev' );
 	define( 'SENDGRID_EMAIL_FROM_NAME', 'Alex Bordei Dev Ticketing' );
 
