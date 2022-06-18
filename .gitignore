@@ -1,0 +1,7 @@
+/wp-content/uploads/
+*.log
+/.ftpquota
+/.htaccess
+/.idea
+/.well-known
+/wp-config.php
